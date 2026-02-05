@@ -17,9 +17,9 @@ Charts:
 	•	trades per day
 	•	Long vs Short ratio
 	•	Performance vs sentiment
-  •Behaviour change by sentiment
-  •trader segmentation
-  •consistency segmentation
+    •   Behaviour change by sentiment
+    •   trader segmentation
+    •   consistency segmentation
 
 #Strategy 1: Risk Control Based on Market Sentiment
 
