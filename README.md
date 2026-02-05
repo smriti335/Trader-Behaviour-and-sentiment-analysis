@@ -1,7 +1,8 @@
 # Trader Behavior & Sentiment Analysis
 
 ## Overview
-This project analyzes how trader behavior and performance change under different market sentiment regimes using historical trade data and the Fear & Greed Index. The goal is to identify behavioral patterns, evaluate performance differences, and derive actionable trading strategies.
+This project analyzes how trader behavior and performance change under different market sentiment regimes using historical trade data and the Fear & Greed Index.
+The goal is to identify behavioral patterns, evaluate performance differences, and derive actionable trading strategies.
 
 ---
 
